@@ -15,10 +15,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&hide_border=false" alt="Gabriel's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>

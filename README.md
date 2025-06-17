@@ -12,18 +12,18 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielUsername&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats" />
 </div>
 
 <!-- Top Languages (barra) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUsername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Se quiser o gráfico em rosquinha -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUsername&layout=donut&theme=dark&hide_border=true" alt="Language Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=donut&theme=dark&hide_border=true" alt="Language Donut" />
 </div>
 
 

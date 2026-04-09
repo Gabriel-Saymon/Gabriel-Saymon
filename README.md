@@ -16,12 +16,15 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 Minhas Estatísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Saymon&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

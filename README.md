@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Gabriel 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Engineering+Student;Open+Source+Enthusiast;Web+Developer+in+progress)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Computer+Engineering+Student;Open+Source+Enthusiast;Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,14 +16,13 @@
 
 ---
 
-<h3 align="center">📊 Minhas Estatísticas</h3>
+### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Saymon&show_icons=true&theme=dark&hide_border=true" alt="Gabriel's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Saymon&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Saymon&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -40,9 +39,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Saymon&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
